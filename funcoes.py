@@ -1,5 +1,5 @@
-#encoding:utf-8
-import pyqrcode
+﻿#encoding:utf-8
+import pyqrcode #pip3 install pyqrcode
 from random import randint
 key = ''
 '''funcao para encriptar o texto.'''
