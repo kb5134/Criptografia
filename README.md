@@ -2,6 +2,7 @@
 Projeto criado anteriormente como projeto de um APS solicitada no primeiro semestre do curso de Ciencia da Computação da UNIP-Limeira, porém visando a melhora do mesmo e a consistencia das informações, sua ideia foi completamente alterada mantendo apenas em seu nucleo a funcionalidade de exibir a chave de acesso para o usuário final através de um Qrcode
 ## Como funciona:
 Atualmente o sistem gera um dicionario de numeros aleatórios para cada letra do alfabeto e salva estes numeros em um dicionario.
+
 ![image](https://user-images.githubusercontent.com/57547119/159199644-c0a65dec-9621-44bb-8991-6a82350c4bef.png)
 
 Após criar o dicionario, o sistema irá exibir para o usuário a mensagem que o mesmo inseriu porém utilizando os valores de cada letra como os valores do dicionario que foi criado
